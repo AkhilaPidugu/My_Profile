@@ -202,6 +202,7 @@ progress[value]::-webkit-progress-bar{
 }
 
 .input{
+    
     line-height: 2em;
     width: 350px;
     border-radius: 3px;
